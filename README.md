@@ -1,0 +1,2 @@
+# SQL Query Bug
+This repository contains a demonstration of a common SQL query error where unexpected results occur due to multiple rows matching the condition. The query is designed to retrieve employee information based on department ID and salary but fails to handle scenarios where multiple employees have the same department ID and salary above a specific threshold. The solution demonstrates how to modify the query to correctly retrieve all matching employee records, ensuring data accuracy.
